@@ -124,7 +124,6 @@ const ExpForm = ({ index, goToNextStep }: ExpFormProps, ref: any) => {
             type='date'
             {...register('დამთავრების_თარიღი')}
             error={errors.დამთავრების_თარიღი?.message}
-            errorText='დამთავრების თარიღი აუცილებელია'
             hasError={!!errors.დამთავრების_თარიღი}
             hasSuccess={
               !errors.დამთავრების_თარიღი && data.დამთავრების_თარიღი !== ''
