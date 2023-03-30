@@ -8,3 +8,5 @@ This is a web application that allows you to create resume in a simple way.
 - [Styled Components](https://styled-components.com/)
 - [React Router](https://reactrouter.com/)
 - [React Hook Form](https://react-hook-form.com/)
+
+Only Desktop Version
